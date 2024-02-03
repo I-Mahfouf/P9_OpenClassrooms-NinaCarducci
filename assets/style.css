@@ -354,3 +354,10 @@ input[type="submit"] {
 	}
 }
 
+.footer {
+	display: flex;
+	justify-content: center;
+	padding-inline: 100px;
+	padding-block: 30px;
+	background-color: #D8D3A8;
+}
